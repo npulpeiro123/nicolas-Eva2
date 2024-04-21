@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5{
 }
 .logo{
     font-size: 1.9em;
-    color: #de423a;
+    color: #3adede;
     padding: 10px;
 	font-family: "Jersey 25", sans-serif;
 	font-weight: 400;
@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5{
         
 }
 .main-header__contactInfo__phone{
-    background:#de423a;
+    background:#3adede;
     color: #fff;
     padding: 10px;
     margin: 0;
@@ -178,7 +178,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color: #3adede;
 	padding: 10px;
 	text-align: center;
 	
@@ -201,7 +201,7 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #DE423A;
+	background: #3adede;
 	color: #fff;
 	padding:10px;
 	margin: 10px auto;
@@ -230,11 +230,6 @@ h1,h2,h3,h4,h5{
 	font-size: 1.3em;
 	padding-top: 10px;
 	padding-bottom: 20px;
-}
-.today-special__price{
-	font-size: 1.5em;
-	color: #DE423a;
-	font-weight: bold;
 }
 
 /*----------------Estilos Principales------------------*/
