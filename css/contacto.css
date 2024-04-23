@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.style-contacto{
+    display: block;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.map{
+    text-align: center;
+}

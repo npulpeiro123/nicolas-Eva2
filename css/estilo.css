@@ -173,6 +173,9 @@ h1,h2,h3,h4,h5{
     transform: translateX(-50%) translateY(-50%);
     font-size: 1.5em;
     font-weight:bold;
+	font-family: "Jersey 25", sans-serif;
+	font-weight: 400;
+	font-style: normal;
     
 }
 
@@ -186,7 +189,9 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
+	font-family: "Jersey 25", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 	
 }
 .column__title{
@@ -208,7 +213,9 @@ h1,h2,h3,h4,h5{
 	
 }
 .group__title{
-	font-family:'Sacramento',cursive;
+	font-family: "Jersey 25", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.8em;
